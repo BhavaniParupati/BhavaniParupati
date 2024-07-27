@@ -29,7 +29,7 @@
 
    Modules Used In Project :
 
-      Numpy, Pandas, Tensorflow, Matplotlib
+   Numpy, Pandas, Tensorflow, Matplotlib
 
    STEPS :
 
@@ -52,7 +52,7 @@
 
 🌐 Get in Touch
 
-      LinkedIn :www.linkedin.com/in/bhavani-parupati-2391a7226    GitHub:https://github.com/BhavaniParupati/BhavaniParupati
+ LinkedIn :www.linkedin.com/in/bhavani-parupati-2391a7226    GitHub:https://github.com/BhavaniParupati/BhavaniParupati
      
       
 
