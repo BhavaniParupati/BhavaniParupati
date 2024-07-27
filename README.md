@@ -1,9 +1,11 @@
  👨‍💻 Software Developer  | Welcome to My Profile! Hello! I'm Bhavani Parupati, 👋
+ 
  🧠 About Me
       
   Bhavani Parupati
-  As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiastic about securing a challenging role in the IT and software industry. My aim is to enhance my practical skills and utilize my 
-  strong analytical and technical abilities to drive innovation and contribute significantly to organizational success.
+  
+  As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiastic about securing a challenging role in the IT and software industry. My aim is to enhance
+  my practical skills and utilize my  strong analytical and technical abilities to drive innovation and contribute significantly to organizational success.
 
   🎓 Education 
 
@@ -27,10 +29,7 @@
 
    Modules Used In Project :
 
-      Numpy,
-      Pandas,
-      Tensorflow,
-      Matplotlib
+      Numpy, Pandas, Tensorflow, Matplotlib
 
     STEPS :
 
@@ -44,15 +43,17 @@
     4. support vector machine 
   
      classification ( Forgery images , Genuine images )
+     
      the support vector machine give's the output images are forgery or Genuine.
 
      CONCLUSION :
-    The results highlight the strength of our method in distinguishing real images from fakes and suggest that it is a valuable tool for image forgery detection. This work not only addresses current challenges in 
-    the field but also provides a solid foundation for future research into detecting various types of image manipulations.
+    The results highlight the strength of our method in distinguishing real images from fakes and suggest that it is a valuable tool for image forgery detection. This work not only 
+    addresses current challenges in  the field but also provides a solid foundation for future research into detecting various types of image manipulations.
 
 🌐 Get in Touch
 
       LinkedIn :www.linkedin.com/in/bhavani-parupati-2391a7226    GitHub:https://github.com/BhavaniParupati/BhavaniParupati
+     
       +91-9391298727
 
 
