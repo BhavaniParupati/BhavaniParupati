@@ -31,29 +31,29 @@
 
       Numpy, Pandas, Tensorflow, Matplotlib
 
-    STEPS :
+   STEPS :
 
-    1.Images
+   1.Images
   
-    2.Finetuned Features
+   2.Finetuned Features
   
-    3.LeightWeight Algorithms [ Shuffle Net,  squeezy Net, Mobilize Net ]
-         These algorithms are extracted with the finetuned features then it gives the support vector machine 
+   3.LeightWeight Algorithms [ Shuffle Net,  squeezy Net, Mobilize Net ]
+   These algorithms are extracted with the finetuned features then it gives the support vector machine 
 
-    4. support vector machine 
+   4. support vector machine 
   
-     classification ( Forgery images , Genuine images )
+   classification ( Forgery images , Genuine images )
      
-     the support vector machine give's the output images are forgery or Genuine.
+   the support vector machine give's the output images are forgery or Genuine.
 
-     CONCLUSION :
-    The results highlight the strength of our method in distinguishing real images from fakes and suggest that it is a valuable tool for image forgery detection. This work not only 
-    addresses current challenges in  the field but also provides a solid foundation for future research into detecting various types of image manipulations.
+   CONCLUSION :
+   The results highlight the strength of our method in distinguishing real images from fakes and suggest that it is a valuable tool for image forgery detection. This work not
+   only addresses current challenges in  the field but also provides a solid foundation for future research into detecting various types of image manipulations.
 
 🌐 Get in Touch
 
       LinkedIn :www.linkedin.com/in/bhavani-parupati-2391a7226    GitHub:https://github.com/BhavaniParupati/BhavaniParupati
      
-      +91-9391298727
+      
 
 
