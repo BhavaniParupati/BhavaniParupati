@@ -2,8 +2,7 @@
 - 🧠 About Me
 
       Bhavani Parupati ( She/Her )
-    
-     As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiastic about securing a challenging role in the IT and software industry. My aim is to enhance my practical skills and utilize my 
+      As a passionate B.Tech graduate in Computer Science Engineering, I am enthusiastic about securing a challenging role in the IT and software industry. My aim is to enhance my practical skills and utilize my 
      strong analytical and technical abilities to drive innovation and contribute significantly to organizational success.
 
  - 🎓 Education 
@@ -27,12 +26,13 @@
 
       Modules Used In Project :
 
-      Numpy
-      Pandas
-      Tensorflow
+      Numpy,
+      Pandas,
+      Tensorflow,
       Matplotlib
 
      STEPS :
+
     1.Images
   
     2.Finetuned Features
@@ -40,7 +40,7 @@
     3.LeightWeight Algorithms [ Shuffle Net,  squeezy Net, Mobilize Net ]
          These algorithms are extracted with the finetuned features then it gives the support vector machine 
 
-     4. support vector machine 
+    4. support vector machine 
   
      classification ( Forgery images , Genuine images )
      the support vector machine give's the output images are forgery or Genuine.
@@ -52,6 +52,6 @@
 🌐 Get in Touch
 
       LinkedIn :www.linkedin.com/in/bhavani-parupati-2391a7226 GitHub:https://github.com/BhavaniParupati/BhavaniParupati
-- 📫 91-9391298727
+      +91-9391298727
 
 
